@@ -40,3 +40,6 @@ ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
 EOT
 
 service nginx reload
+
+# if reload fails, look at the error log
+# cat /var/log/nginx/error.log
