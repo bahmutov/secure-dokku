@@ -6,6 +6,7 @@ to set Nginx settings to maximum security. On a fresh Dokku install the
 [SSL Labs test](https://www.ssllabs.com/ssltest) will go from "C-" to "A".
 
 For more details, read [Running multiple applications in Dokku][running].
+Another good resource is [My First 5 Minutes On A Server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
 [running]: https://glebbahmutov.com/blog/running-multiple-applications-in-dokku/
 
