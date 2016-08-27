@@ -23,6 +23,7 @@ server_tokens off;
 ssl_session_cache shared:SSL:20m;
 ssl_session_timeout 10m;
 
+# this setting is probably already there? (Dokku 7)
 ssl_prefer_server_ciphers on;
 
 # default ciphers
