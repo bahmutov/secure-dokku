@@ -5,6 +5,12 @@ Run the script [secure-dokku.sh](secure-dokku.sh) on your
 to set Nginx settings to maximum security. On a fresh Dokku install the
 [SSL Labs test](https://www.ssllabs.com/ssltest) will go from "C-" to "A".
 
+Typical command to grab the script and run it on the Dokku machine
+
+```sh
+wget -O - https://raw.githubusercontent.com/bahmutov/secure-dokku/master/secure-dokku.sh | bash
+```
+
 For more details, read [Running multiple applications in Dokku][running].
 Another good resource is [My First 5 Minutes On A Server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
