@@ -13,6 +13,7 @@ wget -O - https://raw.githubusercontent.com/bahmutov/secure-dokku/master/secure-
 
 For more details, read [Running multiple applications in Dokku][running].
 Another good resource is [My First 5 Minutes On A Server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
+and [Server configs for Nginx repo](https://github.com/h5bp/server-configs-nginx).
 
 [running]: https://glebbahmutov.com/blog/running-multiple-applications-in-dokku/
 
