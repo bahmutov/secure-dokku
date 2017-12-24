@@ -1,5 +1,7 @@
 # secure-dokku
 
+# DEPRECATED - these settings are now set on by default in Dokku!
+
 Run the script [secure-dokku.sh](secure-dokku.sh) on your
 [Dokku](http://dokku.viewdocs.io/dokku/) machine
 to set Nginx settings to maximum security. On a fresh Dokku install the
